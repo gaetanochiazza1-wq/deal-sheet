@@ -1,0 +1,316 @@
+{
+ "date": "2026-10-27",
+ "deals": [
+  {
+   "angles": [
+    {
+     "route": "ts",
+     "text": "Any sale or spin-off of DePuy is a carve-out. Diligence centres on standalone costs once J&J's shared functions fall away, separating shared IT, manufacturing and distribution, transitional services agreements, and a quality of earnings review on a business that has never had its own audited accounts."
+    },
+    {
+     "route": "audit",
+     "text": "A spin-off creates a new listed company that needs carve-out historical financial statements. Auditing how J&J allocated shared costs to the unit is a big judgement area. For Smith & Nephew, costs on an aborted deal are expensed, so look at how they're presented between statutory and adjusted profit."
+    },
+    {
+     "route": "risk",
+     "text": "For shareholders, a spin-off lets them choose whether to own orthopaedics. The merger would have concentrated Smith & Nephew's exposure to US hospital pricing and added a US listing, which changes who owns the shares."
+    }
+   ],
+   "name": "Smith & Nephew × J&J orthopaedics",
+   "sources": [
+    {
+     "label": "AJ Bell / FT report",
+     "url": "https://www.ajbell.co.uk/news/articles/press-smith-nephew-jj-held-orthopaedics-merger-talks-ft"
+    }
+   ],
+   "status": "Talks collapsed",
+   "terms": [
+    [
+     "Target",
+     "J&J's DePuy Synthes orthopaedics unit"
+    ],
+    [
+     "Value discussed",
+     "c. $22bn"
+    ],
+    [
+     "S&N market value",
+     "£9.6bn"
+    ],
+    [
+     "Sticking point",
+     "Who would be CEO"
+    ],
+    [
+     "Reported",
+     "FT, 23 Oct"
+    ]
+   ],
+   "what": "Smith & Nephew approached Johnson & Johnson earlier this year about combining with J&J's orthopaedics business, DePuy Synthes, valued at around $22 billion. The talks got as far as agreeing the main financial terms, then fell apart weeks ago because Smith & Nephew would not accept J&J's orthopaedics boss, its own former chief executive, as head of the combined group. J&J now says it would rather spin the unit off.",
+   "why": "Price was agreed and the deal still died. Leadership, board seats, headquarters and listing location, known as the social issues, sink deals regularly. It also shows how big a step this was: Smith & Nephew would have taken on a business far larger than itself."
+  },
+  {
+   "angles": [
+    {
+     "route": "ts",
+     "text": "Expect vendor due diligence: the sellers' advisers prepare a report bidders can rely on. Key issues are normalised EBITDA, the costs of standing alone from two parents, supply and service agreements with Shell and Exxon, and working capital through the chemicals cycle."
+    },
+    {
+     "route": "audit",
+     "text": "Shell likely equity-accounts its half under IAS 28. Once a sale is highly probable, the stake can be classified as held for sale under IFRS 5, equity accounting stops, and the eventual gain or loss on disposal is a key disclosure."
+    },
+    {
+     "route": "risk",
+     "text": "A private equity buyer would fund this with significant debt. Lenders will stress-test margins through a chemicals downturn, because cyclical earnings and heavy leverage are where buyouts get into trouble."
+    }
+   ],
+   "name": "Infineum sale",
+   "sources": [
+    {
+     "label": "AJ Bell / FT report",
+     "url": "https://www.ajbell.co.uk/news/articles/press-shell-and-exxonmobil-put-uk-chemicals-venture-sale-ft"
+    }
+   ],
+   "status": "Sale process",
+   "terms": [
+    [
+     "Owners",
+     "Shell and ExxonMobil, 50/50"
+    ],
+    [
+     "Business",
+     "Specialty chemicals (Abingdon, Oxfordshire)"
+    ],
+    [
+     "Valuation sought",
+     "c. $8bn"
+    ],
+    [
+     "Adviser",
+     "Bank of America"
+    ],
+    [
+     "Stage",
+     "Early, may not complete"
+    ]
+   ],
+   "what": "Shell and ExxonMobil are looking to sell Infineum, their 50-50 chemicals joint venture based in Abingdon, and are seeking a valuation of around $8 billion. Bank of America is running the process, which is at an early stage.",
+   "why": "Oil majors keep trimming businesses outside their core. A joint venture with two parents is a classic private equity target: a solid industrial business with an obvious buyer case, but a lot to untangle."
+  },
+  {
+   "angles": [
+    {
+     "route": "ts",
+     "text": "Know the Takeover Code basics: a contractual offer needs more than 50% acceptances to go unconditional, while a board-backed scheme of arrangement needs 75% by value of shares voting. A contingent value right (CVR) is a common way to bridge a valuation gap between buyer and seller."
+    },
+    {
+     "route": "audit",
+     "text": "Had it completed, the CVR would be contingent consideration under IFRS 3: recognised at fair value at acquisition, with later changes going through profit or loss. Brave Bison's existing stake is measured under IFRS 9 at fair value unless it gives significant influence."
+    }
+   ],
+   "name": "Brave Bison bid for System1",
+   "sources": [
+    {
+     "label": "AJ Bell",
+     "url": "https://www.ajbell.co.uk/news/articles/brave-bisons-tilt-system1-lapses-fails-win-enough-backing"
+    }
+   ],
+   "status": "Offer lapsed",
+   "terms": [
+    [
+     "Final offer",
+     "180p cash + 2.394 Brave Bison shares + a CVR per share"
+    ],
+    [
+     "Implied value",
+     "£53.4m plus contingent cash"
+    ],
+    [
+     "Acceptances",
+     "Just under 42%"
+    ],
+    [
+     "Board view",
+     "Rejected every approach"
+    ],
+    [
+     "Lapsed",
+     "26 Oct"
+    ]
+   ],
+   "what": "Brave Bison's hostile offer for System1, its fifth and final, lapsed on Monday after acceptances reached just under 42%, short of the level it needed. System1's board had rejected every proposal as undervaluing the company. Brave Bison keeps the stake it has built.",
+   "why": "Hostile bids against a board that won't engage rarely win. Paying partly in your own shares also means the offer's value falls whenever your share price does, which happened here between the July and October offers."
+  }
+ ],
+ "dialogue": [
+  {
+   "host": "A",
+   "sec": -1,
+   "text": "Morning, this is the Morning Deal Sheet for Tuesday the twenty-seventh of October. I'm Maya."
+  },
+  {
+   "host": "B",
+   "sec": -1,
+   "text": "And I'm Tom. Today: a twenty-two billion dollar medtech deal that died over one job title, Shell and Exxon selling a chemicals business, a hostile bid that ran out of road, and a likely rate rise next week."
+  },
+  {
+   "host": "A",
+   "sec": 0,
+   "text": "Let's start with Smith and Nephew. The Financial Times reported that earlier this year it approached Johnson and Johnson about combining with J and J's orthopaedics business, DePuy Synthes. That unit was valued at around twenty-two billion dollars."
+  },
+  {
+   "host": "B",
+   "sec": 0,
+   "text": "Which is a lot, given Smith and Nephew itself is worth about nine and a half billion pounds. So what went wrong?"
+  },
+  {
+   "host": "A",
+   "sec": 0,
+   "text": "They'd agreed the main financial terms. It collapsed over who would run the combined company. J and J's orthopaedics boss used to be Smith and Nephew's chief executive, and Smith and Nephew wanted to keep its current one."
+  },
+  {
+   "host": "B",
+   "sec": 0,
+   "text": "So price agreed, deal dead anyway. That's the social issues point, isn't it? Leadership, board seats, headquarters. They kill deals all the time."
+  },
+  {
+   "host": "A",
+   "sec": 0,
+   "text": "Exactly. And J and J now says it would rather spin the unit off. If you're interviewing for transaction services, that's a carve-out. Diligence would focus on what the business costs to run on its own once J and J's shared functions fall away, untangling shared IT and manufacturing, and transitional service agreements."
+  },
+  {
+   "host": "B",
+   "sec": 0,
+   "text": "And on the audit side, a spin-off needs carve-out financial statements for a business that's never had its own accounts. How J and J allocates shared costs to it is a big judgement area for the auditors."
+  },
+  {
+   "host": "A",
+   "sec": 1,
+   "text": "Second story. Shell and ExxonMobil are looking to sell Infineum, their fifty-fifty chemicals joint venture based in Abingdon. They're hoping for around eight billion dollars, and Bank of America is running the process. It's early, so it may not happen."
+  },
+  {
+   "host": "B",
+   "sec": 1,
+   "text": "That smells like a private equity deal to me. Who does the diligence there?"
+  },
+  {
+   "host": "A",
+   "sec": 1,
+   "text": "Usually the sellers commission vendor due diligence, a report bidders can rely on. With two parents, the questions are what normalised earnings really look like, what it costs to stand alone, and the supply agreements with Shell and Exxon."
+  },
+  {
+   "host": "B",
+   "sec": 1,
+   "text": "And the accounting angle: Shell probably equity-accounts its half. Once a sale becomes highly probable, the stake can be classed as held for sale under IFRS 5, and equity accounting stops. For risk, a buyer would load it with debt, so lenders will test the margins through a chemicals downturn."
+  },
+  {
+   "host": "A",
+   "sec": 2,
+   "text": "Quick one on a smaller deal. Brave Bison's hostile bid for System1 has lapsed. Its fifth and final offer was cash, shares and a contingent value right, worth about fifty-three million pounds plus the contingent bit. Acceptances only reached just under forty-two percent."
+  },
+  {
+   "host": "B",
+   "sec": 2,
+   "text": "And under the Takeover Code a contractual offer needs over fifty percent to go unconditional. A board-backed scheme needs seventy-five percent of the shares voted. Paying in your own shares doesn't help either, because when your share price falls, so does your offer."
+  },
+  {
+   "host": "A",
+   "sec": 2,
+   "text": "And if you get asked about the contingent value right in an audit interview, it would have been contingent consideration under IFRS 3: fair value at acquisition, with later changes through profit or loss."
+  },
+  {
+   "host": "B",
+   "sec": 3,
+   "text": "Markets. UK inflation rose to three and a half percent in September, up from three point one. Most economists in a Reuters poll now expect the Bank of England to raise rates from three point seven five to four percent on the fifth of November."
+  },
+  {
+   "host": "A",
+   "sec": 3,
+   "text": "Why should a deals person care?"
+  },
+  {
+   "host": "B",
+   "sec": 3,
+   "text": "Dearer debt means a private equity buyer can borrow less against the same profits, so they can pay less. For auditors, higher discount rates cut the value in impairment tests and squeeze covenant headroom, which feeds into going concern. And for risk teams, floating-rate borrowers get more stretched."
+  },
+  {
+   "host": "A",
+   "sec": 4,
+   "text": "Here's today's interview question. J and J now prefers spinning off its orthopaedics business to merging it. What are the pros and cons of a spin-off compared with a sale?"
+  },
+  {
+   "host": "B",
+   "sec": 4,
+   "text": "I'd say a spin-off keeps the upside for shareholders and is often tax-efficient, but there's no cash for the parent and the separation is expensive. A sale gives cash and certainty, usually with a premium, but there aren't many buyers for a twenty billion dollar business, and competition review takes time."
+  },
+  {
+   "host": "A",
+   "sec": 4,
+   "text": "And either way it's a carve-out, so standalone costs and separate accounts are the hard part. Finish with a view on which suits J and J. That's the sheet. Good luck today."
+  },
+  {
+   "host": "B",
+   "sec": -1,
+   "text": "See you tomorrow."
+  }
+ ],
+ "headline": "A $22bn medtech merger dies over who would run it, Shell and Exxon shop an $8bn chemicals venture, and a Bank of England hike looks likely next week.",
+ "hosts": {
+  "A": "Maya",
+  "B": "Tom"
+ },
+ "listenMins": 5,
+ "market": {
+  "angles": [
+   {
+    "route": "ts",
+    "text": "In a leveraged buyout, dearer debt means the buyer can borrow less against the same earnings, so the price they can pay falls. Refinancing and covenant work for debt advisory picks up."
+   },
+   {
+    "route": "audit",
+    "text": "Higher discount rates reduce value in use in IAS 36 impairment tests, and tighter covenant headroom feeds straight into going concern assessments this year-end."
+   },
+   {
+    "route": "risk",
+    "text": "Floating-rate borrowers face higher payments, raising credit risk on loan books, while bond prices fall as yields rise, which matters for asset managers' fixed income funds."
+   }
+  ],
+  "name": "Bank of England, 5 November",
+  "sources": [
+   {
+    "label": "HomeOwners Alliance rate tracker",
+    "url": "https://hoa.org.uk/news/interest-rate-predictions-2/"
+   }
+  ],
+  "status": "Rate decision",
+  "terms": [
+   [
+    "Bank Rate",
+    "3.75%"
+   ],
+   [
+    "CPI, September",
+    "3.5% (August 3.1%)"
+   ],
+   [
+    "Economists",
+    "54 of 63 expect 4.00%"
+   ],
+   [
+    "Decision",
+    "Thursday 5 November"
+   ]
+  ],
+  "what": "UK inflation rose to 3.5% in September from 3.1% in August. Most economists in a Reuters poll now expect the Bank of England to raise Bank Rate from 3.75% to 4% on 5 November, and markets are pricing several further rises by the end of 2027.",
+  "why": "Higher rates make debt more expensive, which lowers what buyers can pay, squeezes heavily indebted companies and pushes down asset values."
+ },
+ "question": {
+  "outline": [
+   "Spin-off: shareholders keep the upside and it is often tax-efficient, but the parent gets no cash and pays the separation costs",
+   "Sale: immediate cash and certainty of value, often with a control premium, but there are few buyers for a business worth more than $20bn and competition review can be lengthy",
+   "Either way it is a carve-out: standalone costs, transitional services and separate financial statements are the hard part",
+   "Finish with a view: which suits J&J, and why the failed merger changed its mind"
+  ],
+  "q": "J&J now says it would rather spin off its orthopaedics business than merge it. What are the pros and cons of a spin-off compared with a sale?"
+ }
+}
